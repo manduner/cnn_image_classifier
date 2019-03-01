@@ -1,5 +1,5 @@
 # cnn_image_classifier
-An image classifier based on CNN
+An image classifier based on CNN.  
 The device enviroment I use to run the model is as follow:
 (1)python3
 (2)CUDA
